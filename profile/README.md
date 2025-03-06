@@ -3,3 +3,8 @@
 <h1>Astra</h1>                                  
 <p><em>The Powerful Transpiled Programming Language</em></p>
 </div>
+
+### Fun Facts about Astra
+- Written in Rust, powered by C++
+- Allows you to write raw C++ code
+- Designed and programmed by a [single person](https://github.com/neoapps-dev)
